@@ -19,8 +19,8 @@
 
 ## 🌈 Welcome to the Future Club
 
-**Drop in music, images, videos, or text and this digital club lights up in real time.
-Every effect is pure code. Every session is a one-of-a-kind neon rave.**
+Drop in music, images, videos, or text and this digital club lights up in real time.
+Every effect is pure code. Every session is a one-of-a-kind neon rave.
 
 ---
 
@@ -51,18 +51,10 @@ Every effect is pure code. Every session is a one-of-a-kind neon rave.**
 ## 🎬 Screenshots
 
 <p align="center">
-<!-- Replace with real club GIFs/screenshots! -->
+<!-- Replace with real club GIFs/screens if needed -->
 <img src="https://media.giphy.com/media/IuJ4jCL8Qw5U503Vpu/giphy.gif" width="320" alt="demo gif" style="border-radius:16px; border:2px solid #00F6FF;" />
 <img src="https://media.giphy.com/media/l0MYA9r7SLHa05s2A/giphy.gif" width="320" alt="demo gif" style="border-radius:16px; border:2px solid #FA28FF;" />
 </p>
-<details>
-<summary>More previews… (click to expand)</summary>
-
-| UGC Wall | Neon Spectrum | Projection Mapping |
-|---|---|---|
-| ![](https://media.giphy.com/media/3o6nV4UVp9o9dLNpSo/giphy.gif) | ![](https://media.giphy.com/media/gbubk7FFAS0Mw/giphy.gif) | ![](https://media.giphy.com/media/3ornk9pRJcD2aTlnuo/giphy.gif) |
-
-</details>
 
 ---
 
@@ -76,13 +68,13 @@ npm run dev
 Open http://localhost:3000 and light up the floor.
 
 🖼️ Customization
-Place your club logo at /public/logo1.png
+Place your club logo at /public/logo1.png (or swap in the code)
 Optional favicon: /public/favicon.png
 Tailwind and color variables: epicCyan (#00F6FF), spectralMagenta (#FA28FF), cyberBlack (#090B12)
 🤝 Contribute / Remix
-PRs welcome — Add new visualizers, club events, AI MCs, whatever you dream up!
-Open issues for bugs, feature ideas, rave reviews
-Fork and deploy your own after-hours code club
+PRs welcome — Add sick new visualizers, club events, or AI MCs
+Open issues for bugs/feature ideas
+Fork and deploy your own remix club!
 📄 License
 MIT License
 
