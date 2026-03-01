@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+background: #090B12; /* cyberBlack */
+color: #00F6FF; /* epicCyan */
+font-family: 'Inter', sans-serif;
+min-height: 100vh;
+}
+
+.font-display {
+font-family: 'Oswald', 'Arial Black', sans-serif;
+}
+
+.font-body {
+font-family: 'Inter', sans-serif;
+}
