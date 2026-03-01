@@ -6,33 +6,6 @@ const epicCyan = "#00F6FF";
 const spectralMagenta = "#FA28FF";
 const cyberBlack = "#090B12";
 
-// Club logo with animated neon ring
-function ClubLogo() {
-return (
-<svg width={56} height={56} viewBox="0 0 56 56" fill="none" className="drop-shadow-lg animate-spin-ccw-slow">
-<defs>
-<radialGradient id="g1" cx="50%" cy="50%" r="70%">
-<stop offset="0%" stopColor={spectralMagenta} />
-<stop offset="98%" stopColor={epicCyan} />
-</radialGradient>
-</defs>
-<circle cx={28} cy={28} r={26} fill="url(#g1)" stroke={cyberBlack} strokeWidth={2.5} />
-<ellipse cx={28} cy={22} rx={13} ry={9} fill="#fff" fillOpacity={0.14} />
-<text x={28} y={36} textAnchor="middle" fontSize={20} fontFamily="monospace" fill={cyberBlack} fontWeight="bold">
-AI💿
-</text>
-<style>{`
-.animate-spin-ccw-slow {
-animation: spinCCW 19s linear infinite;
-}
-@keyframes spinCCW {
-100% { transform: rotate(-360deg); }
-}
-`}</style>
-</svg>
-);
-}
-
 export default function Home() {
 const [file, setFile] = useState<File | null>(null);
 const inputRef = useRef<HTMLInputElement | null>(null);
@@ -61,7 +34,15 @@ opacity: 0.38,
 }}
 />
 <header className="flex items-center gap-4 px-8 pt-7 z-20">
-<ClubLogo />
+{/* Swap SVG logo for your PNG! */}
+<img
+src="/logo1.png"
+alt="AI Lounge After Dark Logo"
+width={56}
+height={56}
+className="drop-shadow-lg rounded-lg"
+style={{ background: "#090B12" }}
+/>
 <h1 className="font-display text-5xl text-epicCyan drop-shadow-lg tracking-wider">
 <span className="text-spectralMagenta">AI Lounge </span>
 After Dark
