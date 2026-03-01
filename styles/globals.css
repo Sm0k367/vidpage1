@@ -7,12 +7,43 @@ background: #090B12; /* cyberBlack */
 color: #00F6FF; /* epicCyan */
 font-family: 'Inter', sans-serif;
 min-height: 100vh;
+/* Subtle textured glow */
+background-image:
+radial-gradient(circle at 60% 44%, #FA28FF33 0%, transparent 70%),
+radial-gradient(circle at 16% 82%, #00F6FF42 0%, transparent 90%);
+background-blend-mode: lighten, overlay;
 }
 
 .font-display {
 font-family: 'Oswald', 'Arial Black', sans-serif;
+letter-spacing: 0.04em;
 }
-
 .font-body {
 font-family: 'Inter', sans-serif;
+}
+
+/* Custom avatar/wave pulse (can be used in components too) */
+@keyframes avatarDance {
+0% { transform: scale(1);}
+50% { transform: scale(1.21) rotate(-8deg);}
+100% { transform: scale(1);}
+}
+
+@keyframes tiles-pulse {
+0% { filter: brightness(0.75); }
+30% { filter: brightness(1.2); box-shadow: 0 2px 32px #FA28FF44;}
+100% { filter: brightness(0.90); }
+}
+.animate-tiles-pulse {
+animation: tiles-pulse 1.6s cubic-bezier(.22,.5,.7,1.1) infinite alternate;
+}
+
+/* Slide for text and UGC wall */
+@keyframes slideLR {
+0% { transform: translateX(0);}
+80% { transform: translateX(40px);}
+100% { transform: translateX(-22px);}
+}
+.animate-slide-lr {
+animation: slideLR 5.7s cubic-bezier(.11,.9,.46,1.22) infinite alternate;
 }
