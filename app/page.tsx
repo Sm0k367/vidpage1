@@ -2,23 +2,33 @@
 import React, { useRef, useState } from "react";
 import Visualizer from "./components/Visualizer";
 
-const accent = "#FA28FF";
+const epicCyan = "#00F6FF";
+const spectralMagenta = "#FA28FF";
+const cyberBlack = "#090B12";
 
-// Club logo
+// Club logo with animated neon ring
 function ClubLogo() {
 return (
-<svg width={48} height={48} viewBox="0 0 48 48" fill="none">
+<svg width={56} height={56} viewBox="0 0 56 56" fill="none" className="drop-shadow-lg animate-spin-ccw-slow">
 <defs>
-<radialGradient id="clubGradient" cx="50%" cy="50%" r="70%" gradientTransform="rotate(30)">
-<stop offset="0%" stopColor={accent} />
-<stop offset="100%" stopColor="#00F6FF" />
+<radialGradient id="g1" cx="50%" cy="50%" r="70%">
+<stop offset="0%" stopColor={spectralMagenta} />
+<stop offset="98%" stopColor={epicCyan} />
 </radialGradient>
 </defs>
-<circle cx={24} cy={24} r={22} fill="url(#clubGradient)" stroke="#090B12" strokeWidth={2} />
-<ellipse cx={24} cy={18} rx={11} ry={7} fill="#fff" fillOpacity={0.12} />
-<text x={24} y={32} textAnchor="middle" fontSize={17} fontFamily="monospace" fill="#090B12" fontWeight="bold">
+<circle cx={28} cy={28} r={26} fill="url(#g1)" stroke={cyberBlack} strokeWidth={2.5} />
+<ellipse cx={28} cy={22} rx={13} ry={9} fill="#fff" fillOpacity={0.14} />
+<text x={28} y={36} textAnchor="middle" fontSize={20} fontFamily="monospace" fill={cyberBlack} fontWeight="bold">
 AI💿
 </text>
+<style>{`
+.animate-spin-ccw-slow {
+animation: spinCCW 19s linear infinite;
+}
+@keyframes spinCCW {
+100% { transform: rotate(-360deg); }
+}
+`}</style>
 </svg>
 );
 }
@@ -41,16 +51,25 @@ className="relative min-h-screen bg-black text-epicCyan font-body overflow-hidde
 onDrop={onDrop}
 onDragOver={e => e.preventDefault()}
 >
+{/* Moving neon fog/aura */}
+<div
+className="fixed top-0 left-0 w-full h-full pointer-events-none z-0"
+style={{
+background: `radial-gradient(ellipse at 60% 44%, ${spectralMagenta}33 0%, transparent 70%), radial-gradient(ellipse at 16% 82%, ${epicCyan}42 0%, transparent 90%)`,
+filter: "blur(80px) brightness(0.98)",
+opacity: 0.38,
+}}
+/>
 <header className="flex items-center gap-4 px-8 pt-7 z-20">
 <ClubLogo />
-<h1 className="font-display text-5xl text-epicCyan drop-shadow-lg">
+<h1 className="font-display text-5xl text-epicCyan drop-shadow-lg tracking-wider">
 <span className="text-spectralMagenta">AI Lounge </span>
 After Dark
 </h1>
 </header>
 
 {/* Upload Box or File select */}
-<div className="mt-10 mb-4 w-full max-w-2xl flex flex-col items-center">
+<div className="mt-10 mb-4 w-full max-w-2xl flex flex-col items-center z-20">
 {!file && (
 <label
 htmlFor="file-upload"
@@ -59,8 +78,8 @@ onClick={() => inputRef.current?.focus()}
 >
 <div className="mb-4 text-2xl">⬆️</div>
 <div className="mb-2">Drop a file anywhere or click here to upload media</div>
-<div className="text-xs text-spectralMagenta opacity-80 mt-2">
-We support: <b>audio, image, GIF, video, text — anything!</b>
+<div className="text-xs text-spectralMagenta opacity-85 mt-2">
+Supported: <b>audio, image, GIF, video, text—go wild!</b>
 </div>
 <input
 id="file-upload"
@@ -74,13 +93,13 @@ onChange={onFile}
 )}
 </div>
 
-{/* Visualizer */}
+{/* Visualizer Spectacle */}
 <Visualizer file={file} />
 
 {/* Reset Button */}
 {file && (
 <button
-className="mt-8 px-6 py-2 rounded font-bold border border-spectralMagenta bg-black/70 text-spectralMagenta hover:bg-epicCyan hover:text-cyberBlack transition"
+className="mt-10 px-7 py-2 rounded font-bold border border-spectralMagenta bg-black/75 text-spectralMagenta hover:bg-epicCyan hover:text-cyberBlack transition"
 onClick={() => setFile(null)}
 >
 Upload another file
