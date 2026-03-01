@@ -34,7 +34,7 @@ opacity: 0.38,
 }}
 />
 <header className="flex items-center gap-4 px-8 pt-7 z-20">
-{/* Swap SVG logo for your PNG! */}
+{/* Use your PNG logo! */}
 <img
 src="/logo1.png"
 alt="AI Lounge After Dark Logo"
