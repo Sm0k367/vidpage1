@@ -77,3 +77,5 @@ Open issues for bugs/feature ideas
 Fork and deploy your own remix club!
 📄 License
 MIT License
+
+<p align="center"> 🚨 <b>Anything you drop becomes a spectacle.</b><br> <b>Glow on, code hard, and own the night.</b> <br><br> <img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/logo1.png" alt="AI Lounge After Dark" width="44" style="border-radius:12px;"> </p>
