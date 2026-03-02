@@ -70,7 +70,7 @@ Open http://localhost:3000 and light up the floor.
 🖼️ Customization
 Place your club logo at /public/logo1.png (or swap in the code)
 Optional favicon: /public/favicon.png
-Tailwind and color variables: epicCyan (#00F6FF), spectralMagenta (#FA28FF), cyberBlack (#090B12)
+Tailwind/color variables: epicCyan (#00F6FF), spectralMagenta (#FA28FF), cyberBlack (#090B12)
 🤝 Contribute / Remix
 PRs welcome — Add sick new visualizers, club events, or AI MCs
 Open issues for bugs/feature ideas
@@ -78,4 +78,4 @@ Fork and deploy your own remix club!
 📄 License
 MIT License
 
-<p align="center"> 🚨 <b>Anything you drop becomes a spectacle.</b><br> <b>Glow on, code hard, and own the night.</b> <br><br> <img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/logo1.png" alt="AI Lounge After Dark" width="44" style="border-radius:12px;"> </p>
+<p align="center"> 🚨 <b>Anything you drop becomes a spectacle.</b><br> <b>Glow on, code hard, and own the night.</b> <br><br> <img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/logo1.png" alt="AI Lounge After Dark" width="44" style="border-radius:12px;"> </p> ```
