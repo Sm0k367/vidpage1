@@ -30,9 +30,9 @@
 # [🎶 Epic Tech AI Lounge: After Dark](https://github.com/Sm0k367/vidpage1)
 
 Welcome to **[vidpage1](https://github.com/Sm0k367/vidpage1)**—the only repo that’s ALSO a club.
-**Upload audio, video, code, images, text:** Everything gets visualized, everything gets a reaction, and everyone gets to be the headliner.
+**Upload audio, video, code, images, text:** Everything gets visualized, everything gets a reaction, and everyone can be the headliner.
 
-Built by [DJ Smoke Stream](https://x.com/Sm0ken420) – but the party is yours.
+Created by [DJ Smoke Stream](https://x.com/Sm0ken420) – but the party is yours.
 
 ---
 
@@ -58,12 +58,12 @@ Open http://localhost:3000,
 Drop any file—music, image, text, whatever. Let the remix begin.
 
 🎧 Live Preview
-<p align="center"> <!-- Replace this demo.gif with your actual hosted demo if you have a demo file --> <img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/demo.gif" width="420" alt="Live Demo" /> </p>
+<p align="center"> <!-- Replace this demo.gif with your actual hosted demo if you have a demo file --> <!-- <img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/demo.gif" width="420" alt="Live Demo" /> --> </p>
 No static assets. Everything is 100% live, real-time, no-nonsense club magic.
 
 🌌 The Philosophy
-Open source is the global cyberclub.
-Every coder’s a DJ.
+Open source is a cyberclub.
+Every coder is a DJ.
 Every upload = a bass drop.
 Every remix = a festival.
 
@@ -80,13 +80,13 @@ Want on the wall? Open a Pull Request!
 You're the energy. The night is yours."
 👾 Tech Stack
 Frontend: Next.js 14+, React 18, Tailwind CSS (glow mode), Framer Motion
-Zero Backend: 100% served and visualized client-side
-Live Deploy: Vercel – try it live
+Zero Backend: All real-time, all client-side
+Deploy: Vercel
 Everything else: Party energy, 0% boring
 💬 Connect and Remix
-X.com / Twitter: @Sm0ken420
-GitHub: Sm0k367
-Suno: DJ Smoke Stream
+[X.com / Twitter: @Sm0ken420](https://x.com/Sm0ken420)
+[GitHub: Sm0k367](https://github.com/Sm0k367)
+[Suno: DJ Smoke Stream](https://suno.com/@smokestream)
 🤝 Contribute!
 PRs are open!
 Want new visual modes? React hooks? More wild GIFs or typing effects? Bring your best.
