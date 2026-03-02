@@ -84,9 +84,9 @@ Zero Backend: All real-time, all client-side
 Deploy: Vercel
 Everything else: Party energy, 0% boring
 💬 Connect and Remix
-[X.com / Twitter: @Sm0ken420](https://x.com/Sm0ken420)
-[GitHub: Sm0k367](https://github.com/Sm0k367)
-[Suno: DJ Smoke Stream](https://suno.com/@smokestream)
+X.com / Twitter: @Sm0ken420 https://x.com/Sm0ken420
+GitHub: Sm0k367 https://github.com/Sm0k367
+Suno: DJ Smoke Stream https://suno.com/@smokestream
 🤝 Contribute!
 PRs are open!
 Want new visual modes? React hooks? More wild GIFs or typing effects? Bring your best.
