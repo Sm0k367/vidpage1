@@ -1,76 +1,82 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/logo1.png" alt="AI Lounge After Dark Logo" width="150" style="border-radius:33px; box-shadow:0 0 36px #FA28FF99,0 0 12px #00F6FF99;">
+<img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/logo1.png" width="200" alt="AI Lounge After Dark Logo" style="border-radius:50px; box-shadow:0 0 64px #FA28FFBB,0 0 24px #00F6FFAA;">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Vercel-2026_READY-00F6FF?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-∞_NIGHTREADY-00F6FF?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/License-MIT-FA28FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/React_18%2B-Next.js_14-epicCyan?logo=react&style=for-the-badge">
-<img src="https://img.shields.io/badge/Zero_Assets-100%25_Live-FA28FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/React_18++Next.js_14-EpicCyan?logo=react&style=for-the-badge">
+<img src="https://img.shields.io/badge/NO_ASSETS-100%25_Live-FA28FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/CODING-MAX-GLOW-FA28FF?style=for-the-badge">
 </p>
 
----
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=1400&color=FA28FF&center=true&width=740&lines=🪩+Epic+Tech+AI+Lounge+After+Dark;Drop+ANYTHING;+Watch+it+become+interactive+club+art.;2026+coding+rave+mode+ENGAGED!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=800&color=FA28FF&vCenter=true&width=1200&lines=🚨%F0%9F%AA%A9++CLUB+OPEN!+Drop+Media%2C+Code%2C+or+Remix.;%F0%9F%8E%A9+2026+CLUB+BOSS+LEVEL+-+CODE+IS+THE+VIBE+..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=00F6FF&vCenter=true&width=850&lines=AI+Lounge+After+Dark+does+it+all%3A+audio%2C+video%2C+images%2C+lyrics+%7C+club+style+%F0%9F%8E%A7;" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=FA28FF&vCenter=true&width=1200&lines=🚨++EVERY+PUSH+IS+A+DROP+%7C+EVERY+CODER+IS+A+DJ+%7C+EVERY+NIGHT+IS+LIVE++🪩" />
 </div>
 
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/IuJ4jCL8Qw5U503Vpu/giphy.gif" width="345"/>
-<img src="https://media.giphy.com/media/l0MYA9r7SLHa05s2A/giphy.gif" width="345"/>
+<img src="https://media.giphy.com/media/gK6Ms2QFFO6SIe2Sgf/giphy.gif" width="370"/>
+<img src="https://media.giphy.com/media/9Jvay5qxqSGoOUeZZQ/giphy.gif" width="370"/>
 </p>
 
 ---
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║ ███████╗ EPIC TECH AI LOUNGE || AFTER DARK || 2026 MEGA-CLUB! ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║ █████████████░ EPIC TECH AI LOUNGE ░░░░░░░░░██▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ ║
+║ █ CODE THE NIGHT ░ DROP YOUR FILES ░ REMIX THE VIBE ░ NEVER SLEEP █ ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
 
 .-''''''-.
 / .-==-.
-| | o o | | DJ NEO BUNNY
-| .-..-. | "Code the night. Remix the world.
-| _/ | Commit the magic. Deploy the vibe."
+| | o o | |
+| .-..-. | DJ CYBERBUNNY, MASTER OF THE BASHFLOOR
+| _/ | "Every repo is a rave, every coder is a legend."
 \ /
 '.__ .'
 
+──────────────────────────────────────────────────────────────
+CLUB GLOW ARENA
+──────────────────────────────────────────────────────────────
 
----
+🎛️ Killercode Features
 
-## 🤩 **How To Blow Minds Here**
+Audio: Club spectrum analyzer, avatar-pulse, max-energy canvas reactions
+Video: Projector wall, neon overlays, beat-driven catalysts
+Image: Projection mapping, neon ripple, live color mapping
+Text: Lyric graffiti, UGC wall, club-scrolling glitch type
+Code: Next.js 14+, Tailwind, 0% backend, Vercel can’t even keep up
+──────────────────────────────────────────────────────────────
 
-| 💾 Type | 🚀 Rave Effect (2026 style!) |
-|------------|---------------------------------------------------------------------|
-| Audio | Real spectral analyzer, club avatars, code-driven pulse |
-| Video | Projector wall, lightwheels, beat-reactive overlays |
-| Image | Projection mapping, neon scans, animated color fence |
-| Text | Glitch typography, lyric parade, scrolling color wall |
-| Code | 100% browser, instant deploy, built for remix & hacking |
+👑 THE HALL OF LEGENDS: Contributor Arena
 
----
+✨	Name / Handle	Contribution / Anthem
+🥇	@YOU	Next remix? PR and join the most open club on GitHub!
+🥈	DJ CYBERBUNNY	Mascot, voice, party leader
+🎛️	DJ CYROBOT	Infinite drop generator
+...	...	...and you??
+Paste your handle in a PR to join—the code wall never closes!
 
-## 🛠️ QUICKSTART (this is not your parent’s README)
+──────────────────────────────────────────────────────────────
 
-```bash
+🚀 ULTIMATE QUICKSTART (THE RAVE LAUNCHERS)
 git clone https://github.com/Sm0k367/vidpage1.git
 cd vidpage1
 npm install
 npm run dev
-Now open http://localhost:3000
-Drop anything—watch it become a rave!
+Open http://localhost:3000
+Drop anything… and watch your code become pure neon magic.
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=FA28FF&center=true&width=680&lines=💡+Never+normal.+Always+code.+Always+alive."> </p>
-🥇 THE CLUBMANIFESTO
-"Every. Single. Drop. Becomes a spectacle.
-Every line of code is a bass drop.
-Every push kicks the party higher."
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=FA28FF&width=820&lines=GLOW+HARD.+OWN+THE+NIGHT.+HACK+FOREVER."> </p>
+🚨 2026 MANIFESTO
+"Each line is a pixel. Each pixel is a light.
+All remixers welcome, all coders legendary.
+This is not your parent’s README.
+This is the club.
+THE CLUB NEVER CLOSES."
 
-DJ NeoBunny // Club MC 2026
-🌠 CLUB CREDO
-Open-source? Always.
-Fork-friendly? 1000%.
-Can you own the night? Absolutely—remix, PR, or add your wildest feature & I’ll toast you in the README all year.
-Visuals, features, and ALL THE GLOW?
-🚨🪩💡🚦🛸🤖💾💥 YES.
-<p align="center"> <img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/logo1.png" width="54"><br> <b>Start raving. Start coding. Star this repo and drop your avatar in the code club.</b><br> <code>git commit -m "🪩 next-level coding rave: THE CLUB NEVER CLOSES"</code> </p>
+— Your fellow code-ravers
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Sm0k367/vidpage1/main/logo1.png" width="80"><br> <b>Deploy. Remix. Drop. Repeat. <br> There’s no last call in the club of infinity.</b> <br><br> <code>git commit -m "∞_BOSS_REMIX: My code never leaves the dancefloor."</code> </p>
